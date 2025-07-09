@@ -23,8 +23,8 @@ API para gerenciamento de salas (rooms), utilizando Node.js, TypeScript e Drizzl
 
 1. **Clone o repositório:**
    ```sh
-   git clone <url-do-repo>
-   cd nlw-agents
+   git clone https://github.com/nahtanpng/nlw-agents-server.git
+   cd nlw-agents-server
    ```
 2. **Instale as dependências:**
    ```sh

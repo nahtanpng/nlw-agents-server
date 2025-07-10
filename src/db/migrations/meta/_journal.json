@@ -8,6 +8,13 @@
       "when": 1752010148330,
       "tag": "0000_cold_tyger_tiger",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752154733101,
+      "tag": "0001_careless_shadow_king",
+      "breakpoints": true
     }
   ]
 }

@@ -15,6 +15,13 @@
       "when": 1752154733101,
       "tag": "0001_careless_shadow_king",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752527849137,
+      "tag": "0002_warm_rafael_vega",
+      "breakpoints": true
     }
   ]
 }
